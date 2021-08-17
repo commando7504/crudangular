@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Razer Kraken",
+      "price": "5200",
+      "stock": "466",
+      "image": "https://m.media-amazon.com/images/I/51sooVbawtL._SL1000_.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Razer Viper Mini",
+      "price": 3000,
+      "stock": 386,
+      "image": "https://m.media-amazon.com/images/I/5118cV13EQL._SL1500_.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Razer Bassilisk FPS mouse",
+      "price": 4700,
+      "stock": "174",
+      "image": "https://m.media-amazon.com/images/I/81IKgvH7fUL._SL1500_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Razer Black Shark v2",
+      "price": 11700,
+      "stock": 18,
+      "image": "https://m.media-amazon.com/images/I/51CpXg-SUuL._SL1000_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Zebronics Zeb Max pro",
+      "price": 2700,
+      "stock": 1600,
+      "image": "https://m.media-amazon.com/images/I/71Nm+F2bi6L._SL1500_.jpg"
+    },
+    {
+      "id": 6,
+      "name": "LG Ultragear 144hz Gaming Monitor",
+      "price": 15000,
+      "stock": 300,
+      "image": "https://m.media-amazon.com/images/I/71sO9GijqwL._SL1488_.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Acer predator 144hz Gaming monitor",
+      "price": 14000,
+      "stock": 400,
+      "image": "https://m.media-amazon.com/images/I/71uXEZ2-ZAL._SL1500_.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Benq 31.5 inch gaming monitor",
+      "price": "32000",
+      "stock": 20,
+      "image": "https://m.media-amazon.com/images/I/61Lgm86L29S._SL1000_.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Dragonwar keyboard mouse combo offer",
+      "price": "1600",
+      "stock": 130,
+      "image": "https://m.media-amazon.com/images/I/61l3aUqHRVL._SL1000_.jpg/I/81flLcwJ-iL._SL1500_.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Redgear Mechanical keyboard",
+      "price": 1500,
+      "stock": 2000,
+      "image": "https://m.media-amazon.com/images/I/81flLcwJ-iL._SL1500_.jpg"
+    },
+    {
+      "name": "Casa con gaming chair",
+      "price": "32000",
+      "stock": "787",
+      "image": "https://m.media-amazon.com/images/I/81h7TuSvZWL._SL1500_.jpg",
+      "id": 11
+    }
+  ]
+}
